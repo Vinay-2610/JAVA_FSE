@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cohort Details Component should always render same html 1`] = `
+<div>
+  <div
+    class="box"
+  >
+    <h3
+      style="color: green;"
+    >
+      C001
+    </h3>
+    <dl>
+      <dt>
+        Cohort Name
+      </dt>
+      <dd>
+        React Fundamentals Batch 1
+      </dd>
+      <dt>
+        Started On
+      </dt>
+      <dd>
+        01/15/2026
+      </dd>
+      <dt>
+        Current Status
+      </dt>
+      <dd>
+        Ongoing
+      </dd>
+      <dt>
+        Coach
+      </dt>
+      <dd>
+        John Smith
+      </dd>
+      <dt>
+        Trainer
+      </dt>
+      <dd>
+        Sarah Johnson
+      </dd>
+    </dl>
+  </div>
+</div>
+`;
